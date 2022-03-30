@@ -8,7 +8,6 @@ public class test {
         System.out.printf("숫자를 입력하세요. \n");
 
         int n = sc.nextInt();
-        // boolean m = (n % 2 == 0);
 
 
         if (n % 2 == 0) {
